@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-cities-project/static/css/main.456484d3.css",
+    "main.js": "/React-cities-project/static/js/main.8f0b9717.js",
+    "static/js/787.9dfa1395.chunk.js": "/React-cities-project/static/js/787.9dfa1395.chunk.js",
+    "index.html": "/React-cities-project/index.html",
+    "main.456484d3.css.map": "/React-cities-project/static/css/main.456484d3.css.map",
+    "main.8f0b9717.js.map": "/React-cities-project/static/js/main.8f0b9717.js.map",
+    "787.9dfa1395.chunk.js.map": "/React-cities-project/static/js/787.9dfa1395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.456484d3.css",
+    "static/js/main.8f0b9717.js"
+  ]
+}
